@@ -19,8 +19,6 @@ JavaScript Game build during SharkHacks (An MLH Hackathon) on 🦈 theme!
 Start saving BLAHAJ 🦈!
 
 ## Kill below Objects & get points but remember don't collide !
-
-Touching below object might loose your points
 <img align="center" src="https://raw.githubusercontent.com/h4rishabh/Save-The-BLAHAJ/master/img/readme/enemy1.png" />
 <img align="center" src="https://raw.githubusercontent.com/h4rishabh/Save-The-BLAHAJ/master/img/readme/enemy2.png" />
 <img align="center" src="https://raw.githubusercontent.com/h4rishabh/Save-The-BLAHAJ/master/img/readme/enemy3.png" />

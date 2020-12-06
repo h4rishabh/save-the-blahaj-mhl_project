@@ -18,6 +18,9 @@ JavaScript Game build during SharkHacks (An MLH Hackathon) on 🦈 theme!
 8. Press P to pause the game, press M to mute. The game allows negative point.
 Start saving BLAHAJ 🦈!
 
+<img align="center" src="https://raw.githubusercontent.com/h4rishabh/Save-The-BLAHAJ/master/img/readme/game_intro.png" />
+
+
 ## Kill below Objects & get points but remember don't collide !
 
 <img align="center" src="https://raw.githubusercontent.com/h4rishabh/Save-The-BLAHAJ/master/img/readme/enemy1.png" />

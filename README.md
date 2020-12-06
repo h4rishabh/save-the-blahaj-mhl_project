@@ -3,7 +3,7 @@ JavaScript Game build during SharkHacks (An MLH Hackathon) on 🦈 theme!
 
 <img align="center" src="https://raw.githubusercontent.com/h4rishabh/Save-The-BLAHAJ/master/img/logo-01.png" />
 
-[Check Demo Here](http://hrishabh.tech/Save-The-BLAHAJ/)
+# [Check Demo Here](http://hrishabh.tech/Save-The-BLAHAJ/)
 
 # How to Play 🦈
 
@@ -28,6 +28,7 @@ Touching below object might loose your points
 ## Don't hit/kill other BLAHAJ, they are your Friend !
 <img align="center" src="https://raw.githubusercontent.com/h4rishabh/Save-The-BLAHAJ/master/img/readme/friend.png" />
 
+## Give your feedback in Comments
 <img align="center" src="https://raw.githubusercontent.com/h4rishabh/Save-The-BLAHAJ/master/img/logo-01.png" />
 
 
